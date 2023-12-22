@@ -1,0 +1,23 @@
+#about {
+  background-color: #ecf0f1;
+  padding: 40px;
+  text-align: center;
+}
+
+#about h2 {
+  color: #2c3e50;
+  font-size: 1.5em;
+}
+
+#about p {
+  color: #34495e;
+  line-height: 1.6;
+  max-width: 600px;
+  margin: 20px auto;
+}
+
+/* .profile-pic {
+  max-width: 200px;
+  border-radius: 50%;
+  border: 5px solid #4caf50;
+} */
